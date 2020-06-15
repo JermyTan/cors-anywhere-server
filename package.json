@@ -1,0 +1,18 @@
+{
+  "name": "cors-anywhere-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/JermyTan/cors-anywhere-server.git",
+  "author": "Jeremy <tan_kai_qun97@yahoo.com.sg>",
+  "license": "MIT",
+  "engines": {
+    "node": "14.4.0"
+  },
+  "dependencies": {
+    "cors-anywhere": "^0.4.3",
+    "dotenv": "^8.2.0"
+  }
+}

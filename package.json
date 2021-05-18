@@ -9,7 +9,7 @@
   "author": "Jeremy <tan_kai_qun97@yahoo.com.sg>",
   "license": "MIT",
   "engines": {
-    "node": "14.4.0"
+    "node": "16.1.0"
   },
   "dependencies": {
     "cors-anywhere": "^0.4.4",

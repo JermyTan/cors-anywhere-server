@@ -12,7 +12,7 @@
     "node": "14.4.0"
   },
   "dependencies": {
-    "cors-anywhere": "^0.4.3",
-    "dotenv": "^8.2.0"
+    "cors-anywhere": "^0.4.4",
+    "dotenv": "^9.0.2"
   }
 }
